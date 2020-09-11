@@ -7,4 +7,4 @@ To build:
 ```sh
 . build/envsetup.sh
 lunch omni_m31nsxx-eng
-make recoveryimage
+mka recoveryimage
